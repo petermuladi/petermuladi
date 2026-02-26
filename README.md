@@ -1,6 +1,6 @@
 
 
-<a href="https://www.netpro.hu"><img align="center" src="banner.jpg" alt="my-img"></a>
+<a href="https://www.netpro.hu"><img align="center" src="cover.png" alt="my-img"></a>
 
 # 👋 Hi there! I'm Péter Muladi
 ## 🎯 Founder & Web Developer (PHP, Laravel) at Netpro Web Development™
